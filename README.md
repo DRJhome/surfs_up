@@ -11,4 +11,8 @@
 
 ## Summary:
 looking at the temperatures we can say the Surf Shop would be sustainable. There is a lot of factors that should be looked at before fully going forward with the Surf Shop. There would need to be more queries run on the factors listed below. 
-+
++ Rain totals
++ Is the size of waves different during the seasons
++ is there any times of the years that beaches are closed to surfing
+
+Running these additional queries will help the owner really plan out the sustainablility of the shop.
